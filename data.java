@@ -9,7 +9,7 @@ public class data{
 
   Method method = null;
 
-  public String[] pkmn = new String[] {"Pikachu", "Squirtle", "Eevee", "Charmander", "Bulbasaur"};
+  public String[] pkmn = new String[] {"Squirtle", "Eevee", "Charmander", "Bulbasaur", "Pikachu"};
   private String p1;
   private String p2;
 
