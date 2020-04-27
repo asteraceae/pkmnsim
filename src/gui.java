@@ -121,6 +121,10 @@ public class gui implements ActionListener {
                 }
             }
         }
+        else {
+            x4();
+            
+        }
     }
     public void x2(){
 
