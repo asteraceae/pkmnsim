@@ -3,7 +3,7 @@ public class pokemon {
   public final int atk;
   public final int sp;
   public final int def;;
-  public final int hp;
+  public int hp;
   public final String type;
   public final String type2;
   public final String name;
@@ -30,4 +30,11 @@ public class pokemon {
   public String[] getMoves(){
     return move;
   }
+  public void decreaseHP(int c){
+    hp = hp - c;
+  }
+    public int getHP(){
+    return hp;
+    }
+
 }

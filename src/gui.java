@@ -25,6 +25,9 @@ public class gui implements ActionListener {
 //enables button function to change thru actionperformed
     private boolean x1 = false;
     private boolean x2 = false;
+    private boolean x3 = false;
+    private boolean p1w = false;
+    private boolean p2w = false;
 
 //some colors to use (RGB) + font
     private final Font arial = new Font("Arial", Font.PLAIN, 14);
@@ -88,9 +91,38 @@ public class gui implements ActionListener {
           x3();
           x2 = true;
         }
+        else if (!x3){
+            battle battle = new battle();
+            if (p1.getHP() < 0){
+                p2w = true;
+                x4();
+                x3 = true;
+            }
+            else if (p1.getHP() < 0){
+                p1w = true;
+                x4();
+                x3 = true;
+            }
+            else{
+                if (battle.goesFirst(p1.getPokemon(), p2.getPokemon()) == true){
+                    battle.damageCalc(p1.getPokemon());
+                    checkFaint();
+                    battle.damageCalc(p2.getPokemon());
+                    checkFaint();
+                    x3();
+                }
+                else {
+                    battle.damageCalc(p2.getPokemon());
+                    checkFaint();
+                    battle.damageCalc(p1.getPokemon());
+                    checkFaint();
+                    x3();
+
+                }
+            }
+        }
     }
     public void x2(){
-
 
         panel.removeAll();
 
@@ -194,9 +226,9 @@ public class gui implements ActionListener {
         label2.setText(p2.getName());
         label2.setFont(arial);
 
-        hp1.setText("100/100 hp");
+        hp1.setText(p1.getHP()+"/100 HP");
         hp1.setFont(arial);
-        hp2.setText("100/100 hp");
+        hp2.setText(p2.getHP()+"/100 HP");
         hp2.setFont(arial);
 
         panel.add(label1);
@@ -216,5 +248,50 @@ public class gui implements ActionListener {
         frame.add(panel, BorderLayout.CENTER);
         panel.setBackground(blue);
         frame.pack();
+    }
+    public void x4(){
+
+        panel.removeAll();
+
+        JLabel label1 = new JLabel("Player One Wins!");
+        JLabel label2= new JLabel("Player Two Wins!");
+
+        JLabel image1 = new JLabel();
+        image1.setIcon(new ImageIcon(p1.getNameL() + ".png"));
+        JLabel image2 = new JLabel();
+        image2.setIcon(new ImageIcon(p2.getNameL() + ".png"));
+
+        JLabel empty1 = new JLabel();
+        JLabel empty2 = new JLabel();
+        JLabel empty3 = new JLabel();
+        JLabel empty4 = new JLabel();
+        JLabel empty5 = new JLabel();
+
+
+        if (p1w == true){
+            panel.add(label1);
+            panel.add(image1);
+        }
+        else if (p2w == true){
+            panel.add(label2);
+            panel.add(image2);
+        }
+
+
+        frame.add(panel, BorderLayout.CENTER);
+        panel.setBackground(blue);
+        frame.pack();
+    }
+    public void checkFaint(){
+        if (p1.getHP() < 0){
+            p2w = true;
+            x3 = true;
+            x4();
+        }
+        else if (p1.getHP() < 0){
+            p1w = true;
+            x3 = true;
+            x4();
+        }
     }
 }

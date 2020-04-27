@@ -36,7 +36,7 @@ public class data{
     String[] stats = parse.getStats();
     String[] type = parse.getType();
     String[] moves = parse.getMoves();
-    px = new pokemon(Integer.parseInt(stats[0]), Integer.parseInt(stats[1]), Integer.parseInt(stats[2]), Integer.parseInt(stats[3]), Integer.parseInt(stats[4]), type[0], type[1], pkmn, moves);
+    px = new pokemon(100, Integer.parseInt(stats[1]), Integer.parseInt(stats[2]), Integer.parseInt(stats[3]), Integer.parseInt(stats[4]), type[0], type[1], pkmn, moves);
   }
 
   public String getName(){
@@ -47,5 +47,11 @@ public class data{
     }
     public String[] getMoves(){
       return px.getMoves();
+    }
+    public int getHP(){
+      return px.getHP();
+    }
+    public pokemon getPokemon(){
+      return px;
     }
   }
