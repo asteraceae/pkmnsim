@@ -3,6 +3,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.File;
+import java.io.FileNotFoundException;
 
 public class gui implements ActionListener {
 
@@ -33,7 +34,7 @@ public class gui implements ActionListener {
     private final Color blue = new Color(172,215,247);
 
     //start, window 1
-    public gui(){
+    public gui() throws FileNotFoundException {
         //set up frame n label
         frame = new JFrame();
         JLabel label = new JLabel("click to start");
@@ -176,9 +177,9 @@ public class gui implements ActionListener {
         JComboBox<String> m2 = new JComboBox<String>();
 
         JLabel image1 = new JLabel();
-        image1.setIcon(new ImageIcon(p1.getName() + ".png"));
+        image1.setIcon(new ImageIcon(p1.getNameL() + ".png"));
         JLabel image2 = new JLabel();
-        image2.setIcon(new ImageIcon(p2.getName() + ".png"));
+        image2.setIcon(new ImageIcon(p2.getNameL() + ".png"));
 
         JLabel empty1 = new JLabel();
         JLabel empty2 = new JLabel();
