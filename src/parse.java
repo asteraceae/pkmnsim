@@ -1,9 +1,6 @@
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 
 public class parse {
     private List<String> data;
@@ -62,11 +59,14 @@ public class parse {
             }
         }
         l2.remove(0);
+        Collections.shuffle(l2);
+        l2.subList(4, l2.size()).clear();
         String[] move = l2.toArray(new String[0]);
         for (int i = 0; i < move.length; i++){
             String keep = move[i];
             keep.trim();
             move[i] = keep;
+            System.out.println(move[i]);
         }
         this.move = move;
 

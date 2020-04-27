@@ -173,8 +173,10 @@ public class gui implements ActionListener {
         JLabel hp1 = new JLabel();
         JLabel hp2 = new JLabel();
 
-        JComboBox<String> m1 = new JComboBox<String>();
-        JComboBox<String> m2 = new JComboBox<String>();
+        JComboBox<String> m1 = new JComboBox<String>(p1.getMoves());
+        JComboBox<String> m2 = new JComboBox<String>(p2.getMoves());
+        m1.setFont(arial);
+        m2.setFont(arial);
 
         JLabel image1 = new JLabel();
         image1.setIcon(new ImageIcon(p1.getNameL() + ".png"));

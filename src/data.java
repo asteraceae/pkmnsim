@@ -45,4 +45,7 @@ public class data{
   public String getNameL(){
     return px.getNameL();
     }
+    public String[] getMoves(){
+      return px.getMoves();
+    }
   }

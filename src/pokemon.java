@@ -27,4 +27,7 @@ public class pokemon {
     String n = name.toLowerCase();
     return n;
   }
+  public String[] getMoves(){
+    return move;
+  }
 }
