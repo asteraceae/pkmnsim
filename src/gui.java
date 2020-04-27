@@ -198,13 +198,16 @@ public class gui implements ActionListener {
         hp2.setFont(arial);
 
         panel.add(label1);
-        panel.add(hp1);
-        panel.add(image1);
-        panel.add(m1);
+        panel.add(empty1);
         panel.add(label2);
+        panel.add(hp1);
+        panel.add(empty2);
         panel.add(hp2);
-        panel.add(b);
+        panel.add(image1);
+        panel.add(empty3);
         panel.add(image2);
+        panel.add(m1);
+        panel.add(b);
         panel.add(m2);
 
 
