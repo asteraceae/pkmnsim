@@ -1,0 +1,2593 @@
+Bulbasaur
+	
+Growl				
+Tackle		
+Vine Whip					
+Growth				
+Leech Seed				
+Razor Leaf					
+Poison Powder				
+Sleep Powder				
+Seed Bomb				
+Take Down					
+Sweet Scent					
+Synthesis					
+Worry Seed					
+Double-Edge					
+Solar Beam					
+					
+Ivysaur					
+					
+Growl					
+Growth					
+Tackle					
+Vine Whip					
+Leech Seed					
+Razor Leaf					
+Poison Powder					
+Sleep Powder					
+Seed Bomb					
+Take Down					
+Sweet Scent					
+Synthesis					
+Worry Seed					
+Double-Edge					
+Solar Beam					
+					
+Venusaur					
+					
+Growl					
+Growth					
+Petal Blizzard					
+Petal Dance					
+Tackle					
+Vine Whip					
+Leech Seed					
+Razor Leaf					
+Poison Powder					
+Sleep Powder					
+Seed Bomb					
+Take Down					
+Sweet Scent					
+Synthesis					
+Worry Seed					
+Double-Edge					
+Solar Beam					
+					
+Charmander					
+					
+Growl					
+Scratch					
+Ember					
+Smokescreen					
+Dragon Breath					
+Fire Fang					
+Slash					
+Flamethrower					
+Scary Face					
+Fire Spin					
+Inferno					
+Flare Blitz					
+					
+Charmeleon					
+					
+Ember					
+Growl					
+Scratch					
+Smokescreen					
+Dragon Breath					
+Fire Fang					
+Slash					
+Flamethrower					
+Scary Face					
+Fire Spin					
+Inferno					
+Flare Blitz					
+					
+Charizard					
+					
+Air Slash					
+Dragon Claw					
+Ember					
+Growl					
+Heat Wave					
+Scratch					
+Smokescreen					
+Dragon Breath					
+Fire Fang					
+Slash					
+Flamethrower					
+Scary Face					
+Fire Spin					
+Inferno					
+Flare Blitz					
+					
+					
+Squirtle					
+					
+Tackle					
+Tail Whip					
+Water Gun					
+Withdraw					
+Rapid Spin					
+Bite					
+Water Pulse					
+Protect					
+Rain Dance					
+Aqua Tail					
+Shell Smash					
+Iron Defense					
+Hydro Pump					
+Skull Bash					
+					
+					
+Wartortle					
+					
+Tackle					
+Tail Whip					
+Water Gun					
+Withdraw					
+Rapid Spin					
+Bite					
+Water Pulse					
+Protect					
+Rain Dance					
+Aqua Tail					
+Shell Smash					
+Iron Defense					
+Hydro Pump					
+Skull Bash					
+					
+					
+Blastoise					
+					
+Flash Cannon					
+Tackle					
+Tail Whip					
+Water Gun					
+Withdraw					
+Rapid Spin					
+Bite					
+Water Pulse					
+Protect					
+Rain Dance					
+Aqua Tail					
+Shell Smash					
+Iron Defense					
+Hydro Pump					
+Skull Bash					
+					
+Caterpie					
+					
+String Shot					
+Tackle					
+Bug Bite					
+					
+					
+Metapod					
+					
+Harden					
+					
+Butterfree					
+					
+Bug Bite					
+Gust					
+Harden					
+String Shot					
+Tackle					
+Supersonic					
+Confusion					
+Poison Powder					
+Sleep Powder					
+Stun Spore					
+Psybeam					
+Whirlwind					
+Air Slash					
+Safeguard					
+Bug Buzz					
+Tailwind					
+Rage Powder					
+Quiver Dance					
+					
+					
+Weedle					
+					
+					
+Poison Sting					
+String Shot					
+					
+Kakuna					
+					
+Harden					
+					
+					
+Beedrill					
+					
+Headbutt					
+Rest					
+Protect					
+Substitute					
+Reflect					
+Facade					
+Brick Break					
+U-turn					
+X-Scissor					
+Poison Jab					
+Toxic					
+Outrage					
+Solar Beam					
+Hyper Beam					
+Roost					
+Sludge Bomb					
+Mega Drain					
+Drill Run					
+					
+					
+Pidgey					
+					
+Tackle					
+Sand Attack					
+Gust					
+Mirror Move					
+Quick Attack					
+Wing Attack					
+Roost					
+Whirlwind					
+Agility					
+Air Slash					
+Razor Wind					
+					
+					
+					
+Pidgeotto					
+					
+Gust					
+Quick Attack					
+Sand Attack					
+Tackle					
+Sand Attack					
+Gust					
+Quick Attack					
+Mirror Move					
+Wing Attack					
+Roost					
+Whirlwind					
+Agility					
+Air Slash					
+Razor Wind					
+					
+Pidgeot					
+					
+Gust					
+Quick Attack					
+Sand Attack					
+Tackle					
+Sand Attack					
+Gust					
+Quick Attack					
+Mirror Move					
+Wing Attack					
+Roost					
+Whirlwind					
+Agility					
+Air Slash					
+Razor Wind					
+					
+Rattata					
+					
+Tackle					
+Tail Whip					
+Quick Attack					
+Focus Energy					
+Bite					
+Super Fang					
+Crunch					
+Hyper Fang					
+Sucker Punch					
+Double-Edge					
+					
+					
+Raticate					
+					
+Counter					
+Focus Energy					
+Fury Swipes					
+Quick Attack					
+Swords Dance					
+Tackle					
+Tail Whip					
+Tail Whip					
+Quick Attack					
+Focus Energy					
+Bite					
+Super Fang					
+Crunch					
+Hyper Fang					
+Sucker Punch					
+Double-Edge					
+					
+					
+Spearow					
+					
+Peck					
+Growl					
+Leer					
+Focus Energy					
+Fury Attack					
+Mirror Move					
+Roost					
+Agility					
+Drill Peck					
+					
+					
+Fearow					
+					
+Drill Run					
+Focus Energy					
+Growl					
+Leer					
+Peck					
+Quick Attack					
+Sky Attack					
+Growl					
+Leer					
+Focus Energy					
+Fury Attack					
+Mirror Move					
+Roost					
+Agility					
+Drill Peck					
+					
+					
+Ekans					
+					
+Poison Sting					
+Wrap					
+Leer					
+Acid					
+Bite					
+Haze					
+Glare					
+Poison Jab					
+Slam					
+Screech					
+Toxic					
+					
+					
+Arbok					
+					
+Acid					
+Crunch					
+Leer					
+Poison Sting					
+Sucker Punch					
+Wrap					
+Leer					
+Acid					
+Bite					
+Haze					
+Glare					
+Poison Jab					
+Slam					
+Screech					
+Toxic					
+					
+					
+Pikachu					
+					
+Charm					
+Growl					
+Nasty Plot					
+Nuzzle					
+Play Nice					
+Quick Attack					
+Sweet Kiss					
+Tail Whip					
+Thunder Shock					
+Thunder Wave					
+Double Team					
+Electro Ball					
+Feint					
+Spark					
+Agility					
+Slam					
+Discharge					
+Thunderbolt					
+Light Screen					
+Thunder					
+					
+					
+Raichu					
+					
+Agility					
+Charm					
+Discharge					
+Double Team					
+Electro Ball					
+Feint					
+Growl					
+Light Screen					
+Nasty Plot					
+Nuzzle					
+Play Nice					
+Quick Attack					
+Slam					
+Spark					
+Sweet Kiss					
+Tail Whip					
+Thunder					
+Thunder Punch					
+Thunder Shock					
+Thunder Wave					
+Thunderbolt					
+					
+					
+Sandshrew					
+					
+Defense Curl					
+Scratch					
+Poison Sting					
+Sand Attack					
+Swift					
+Fury Swipes					
+Dig					
+Protect					
+Swords Dance					
+Slash					
+Earthquake					
+					
+					
+Sandslash					
+					
+Counter					
+Defense Curl					
+Poison Sting					
+Sand Attack					
+Scratch					
+Poison Sting					
+Sand Attack					
+Swift					
+Fury Swipes					
+Dig					
+Protect					
+Swords Dance					
+Slash					
+Earthquake					
+					
+					
+Nidoran¡â					
+					
+Growl					
+Scratch					
+Tail Whip					
+Poison Sting					
+Double Kick					
+Bite					
+Helping Hand					
+Toxic					
+Fury Swipes					
+Crunch					
+Super Fang					
+					
+Nidorina					
+					
+Growl					
+Poison Sting					
+Scratch					
+Tail Whip					
+Tail Whip					
+Poison Sting					
+Double Kick					
+Bite					
+Helping Hand					
+Toxic					
+Fury Swipes					
+Crunch					
+Super Fang					
+					
+					
+Nidoqueen					
+					
+Body Slam					
+Counter					
+Growl					
+Poison Sting					
+Scratch					
+Supersonic					
+Tail Whip					
+Superpower					
+					
+					
+Nidoran¡á					
+					
+Leer					
+Peck					
+Focus Energy					
+Poison Sting					
+Double Kick					
+Horn Attack					
+Helping Hand					
+Toxic					
+Fury Attack					
+Poison Jab					
+Horn Drill					
+					
+Nidorino					
+					
+Focus Energy					
+Leer					
+Peck					
+Poison Sting					
+Focus Energy					
+Poison Sting					
+Double Kick					
+Horn Attack					
+Helping Hand					
+Toxic					
+Fury Attack					
+Poison Jab					
+Horn Drill					
+					
+Nidoking					
+					
+Headbutt					
+Taunt					
+Helping Hand					
+Rest					
+Protect					
+Substitute					
+Reflect					
+Dig					
+Facade					
+Brick Break					
+Seismic Toss					
+Dragon Tail					
+Iron Tail					
+Rock Slide					
+Thunder Punch					
+Poison Jab					
+Toxic					
+Fire Punch					
+Dragon Pulse					
+Ice Punch					
+Thunderbolt					
+Flamethrower					
+Thunder					
+Outrage					
+Earthquake					
+Shadow Ball					
+Fire Blast					
+Surf					
+Hyper Beam					
+Superpower					
+Blizzard					
+Sludge Bomb					
+Ice Beam					
+Stealth Rock					
+Pay Day					
+Drill Run					
+Megahorn					
+					
+					
+Clefairy					
+					
+Charm					
+Copycat					
+Defense Curl					
+Disarming Voice					
+Encore					
+Growl					
+Pound					
+Sing					
+Splash					
+Sweet Kiss					
+Stored Power					
+Minimize					
+After You					
+Life Dew					
+Metronome					
+Moonlight					
+Gravity					
+Meteor Mash					
+Follow Me					
+Cosmic Power					
+Moonblast					
+Healing Wish					
+					
+					
+Clefable					
+					
+After You					
+Charm					
+Copycat					
+Cosmic Power					
+Defense Curl					
+Disarming Voice					
+Encore					
+Follow Me					
+Gravity					
+Growl					
+Healing Wish					
+Life Dew					
+Meteor Mash					
+Metronome					
+Minimize					
+Moonblast					
+Moonlight					
+Pound					
+Sing					
+Splash					
+Stored Power					
+Sweet Kiss					
+					
+					
+Vulpix					
+					
+Ember					
+Tail Whip					
+Disable					
+Quick Attack					
+Spite					
+Incinerate					
+Confuse Ray					
+Will-O-Wisp					
+Extrasensory					
+Flamethrower					
+Imprison					
+Fire Spin					
+Safeguard					
+Inferno					
+Grudge					
+Fire Blast					
+					
+					
+Ninetales					
+					
+Confuse Ray					
+Disable					
+Ember					
+Extrasensory					
+Fire Blast					
+Fire Spin					
+Flamethrower					
+Grudge					
+Imprison					
+Incinerate					
+Inferno					
+Nasty Plot					
+Quick Attack					
+Safeguard					
+Spite					
+Tail Whip					
+Will-O-Wisp					
+					
+					
+Jigglypuff					
+					
+Sing					
+Pound					
+Defense Curl					
+Bide					
+Double Slap					
+Disable					
+Rest					
+Body Slam					
+Mimic					
+Double-Edge					
+					
+					
+Wigglytuff					
+					
+Bide					
+Minimize					
+Pound					
+Sing					
+					
+					
+Zubat					
+Absorb					
+Supersonic					
+Wing Attack					
+Bite					
+Swift					
+Confuse Ray					
+Haze					
+Leech Life					
+Toxic					
+Air Slash					
+					
+Golbat					
+Absorb					
+Bite					
+Crunch					
+Quick Attack					
+Supersonic					
+Whirlwind					
+Wing Attack					
+Wing Attack					
+Bite					
+Swift					
+Confuse Ray					
+Haze					
+Leech Life					
+Toxic					
+Air Slash					
+					
+Oddish					
+Absorb					
+Growth					
+Acid					
+Sweet Scent					
+Mega Drain					
+Poison Powder					
+Stun Spore					
+Sleep Powder					
+Giga Drain					
+Toxic					
+Moonblast					
+Grassy Terrain					
+Moonlight					
+Petal Dance					
+					
+Gloom					
+Absorb					
+Acid					
+Growth					
+Sweet Scent					
+Mega Drain					
+Poison Powder					
+Stun Spore					
+Sleep Powder					
+Giga Drain					
+Toxic					
+Moonblast					
+Grassy Terrain					
+Moonlight					
+Petal Dance					
+					
+Vileplume					
+Absorb					
+Acid					
+Aromatherapy					
+Giga Drain					
+Grassy Terrain					
+Growth					
+Mega Drain					
+Moonblast					
+Moonlight					
+Petal Blizzard					
+Petal Dance					
+Poison Powder					
+Sleep Powder					
+Stun Spore					
+Sweet Scent					
+Toxic					
+					
+Paras					
+					
+Scratch					
+Sleep Powder					
+Stun Spore					
+Poison Powder					
+Absorb					
+Growth					
+Fury Swipes					
+Slash					
+Leech Life					
+Spore					
+X-Scissor					
+					
+Parasect					
+					
+Leech Seed					
+Poison Powder					
+Scratch					
+Screech					
+Sleep Powder					
+Stun Spore					
+Sleep Powder					
+Stun Spore					
+Poison Powder					
+Absorb					
+Growth					
+Fury Swipes					
+Slash					
+Leech Life					
+Spore					
+X-Scissor					
+					
+Venonat					
+Tackle					
+Disable					
+Supersonic					
+Confusion					
+Poison Powder					
+Stun Spore					
+Psybeam					
+Sleep Powder					
+Leech Life					
+Psychic					
+					
+Venomoth					
+Agility					
+Confusion					
+Disable					
+Gust					
+Screech					
+Supersonic					
+Tackle					
+Disable					
+Supersonic					
+Confusion					
+Poison Powder					
+Stun Spore					
+Psybeam					
+Sleep Powder					
+Leech Life					
+Psychic					
+Bug Buzz					
+Quiver Dance					
+					
+Diglett					
+Sand Attack					
+Scratch					
+Growl					
+Astonish					
+Mud-Slap					
+Bulldoze					
+Sucker Punch					
+Slash					
+Sandstorm					
+Dig					
+Earth Power					
+Earthquake					
+Fissure					
+					
+					
+Dugtrio					
+Astonish					
+Growl					
+Night Slash					
+Sand Attack					
+Sand Tomb					
+Scratch					
+Tri Attack					
+Mud-Slap					
+Bulldoze					
+Sucker Punch					
+Slash					
+Sandstorm					
+Dig					
+Earth Power					
+Earthquake					
+Fissure					
+					
+					
+Meowth					
+Fake Out					
+Growl					
+Feint					
+Scratch					
+Pay Day					
+Bite					
+Taunt					
+Assurance					
+Fury Swipes					
+Screech					
+Slash					
+Nasty Plot					
+Play Rough					
+					
+					
+Persian					
+Fake Out					
+Feint					
+Growl					
+Power Gem					
+Scratch					
+Switcheroo					
+Pay Day					
+Bite					
+Taunt					
+Assurance					
+Fury Swipes					
+Screech					
+Slash					
+Nasty Plot					
+Play Rough					
+					
+Psyduck					
+Scratch					
+Tail Whip					
+Water Gun					
+Confusion					
+Fury Swipes					
+Disable					
+Psybeam					
+Screech					
+Surf					
+Amnesia					
+Hydro Pump					
+					
+					
+Golduck					
+Confusion					
+Encore					
+Scratch					
+Tail Whip					
+Water Gun					
+Yawn					
+Tail Whip					
+Water Gun					
+Confusion					
+Fury Swipes					
+Disable					
+Psybeam					
+Screech					
+Surf					
+Amnesia					
+Hydro Pump					
+					
+					
+Mankey					
+Leer					
+Scratch					
+Focus Energy					
+Taunt					
+Karate Chop					
+Fury Swipes					
+Low Kick					
+Seismic Toss					
+U-turn					
+Screech					
+Thrash					
+Outrage					
+					
+					
+Primeape					
+Counter					
+Encore					
+Focus Energy					
+Leer					
+Rage					
+Scratch					
+Taunt					
+Focus Energy					
+Taunt					
+Karate Chop					
+Fury Swipes					
+Low Kick					
+Seismic Toss					
+U-turn					
+Screech					
+Thrash					
+Outrage					
+					
+					
+Growlithe					
+Ember					
+Leer					
+Howl					
+Bite					
+Flame Wheel					
+Helping Hand					
+Agility					
+Fire Fang					
+Retaliate					
+Crunch					
+Take Down					
+Flamethrower					
+Roar					
+Play Rough					
+Reversal					
+Flare Blitz					
+					
+					
+Arcanine					
+Agility					
+Bite					
+Burn Up					
+Crunch					
+Ember					
+Extreme Speed					
+Fire Fang					
+Flame Wheel					
+Flamethrower					
+Flare Blitz					
+Helping Hand					
+Howl					
+Leer					
+Play Rough					
+Retaliate					
+Reversal					
+Roar					
+Take Down					
+					
+					
+Poliwag					
+Bubble					
+Pound					
+Hypnosis					
+Water Gun					
+Double Slap					
+Bubble Beam					
+Low Kick					
+Body Slam					
+Hydro Pump					
+					
+Poliwhirl					
+Bubble					
+Hypnosis					
+Pound					
+Water Gun					
+Pound					
+Hypnosis					
+Water Gun					
+Double Slap					
+Bubble Beam					
+Low Kick					
+Body Slam					
+Hydro Pump					
+					
+					
+Poliwrath					
+Bubble					
+Bulk Up					
+Haze					
+Hypnosis					
+Mist					
+Pound					
+Submission					
+Water Gun					
+Superpower					
+					
+					
+Abra					
+Headbutt					
+Taunt					
+Teleport					
+Rest					
+Light Screen					
+Protect					
+Substitute					
+Reflect					
+Facade					
+Seismic Toss					
+Thunder Wave					
+Iron Tail					
+Foul Play					
+Thunder Punch					
+Toxic					
+Tri Attack					
+Fire Punch					
+Dazzling Gleam					
+Calm Mind					
+Ice Punch					
+Psychic					
+Shadow Ball					
+Dream Eater					
+					
+					
+Kadabra					
+Confusion					
+Disable					
+Flash					
+Kinesis					
+Psybeam					
+Teleport					
+Disable					
+Flash					
+Night Shade					
+Substitute					
+Reflect					
+Recover					
+Psychic					
+					
+					
+Alakazam					
+Barrier					
+Calm Mind					
+Confusion					
+Disable					
+Encore					
+Flash					
+Kinesis					
+Psybeam					
+Teleport					
+Disable					
+Flash					
+Night Shade					
+Substitute					
+Reflect					
+Recover					
+Psychic					
+					
+					
+Machop					
+Leer					
+Low Kick					
+Focus Energy					
+Revenge					
+Low Sweep					
+Knock Off					
+Scary Face					
+Vital Throw					
+Strength					
+Dual Chop					
+Bulk Up					
+Seismic Toss					
+Dynamic Punch					
+Cross Chop					
+Double-Edge					
+					
+					
+Machoke					
+Focus Energy					
+Leer					
+Low Kick					
+Revenge					
+Low Sweep					
+Knock Off					
+Scary Face					
+Vital Throw					
+Strength					
+Dual Chop					
+Bulk Up					
+Seismic Toss					
+Dynamic Punch					
+Cross Chop					
+Double-Edge					
+					
+					
+Machamp					
+Focus Energy					
+Leer					
+Low Kick					
+Revenge					
+Wide Guard					
+Low Sweep					
+Knock Off					
+Scary Face					
+Vital Throw					
+Strength					
+Dual Chop					
+Bulk Up					
+Seismic Toss					
+Dynamic Punch					
+Cross Chop					
+Double-Edge					
+					
+					
+Bellsprout					
+Vine Whip					
+Growth					
+Wrap					
+Acid					
+Sleep Powder					
+Poison Powder					
+Stun Spore					
+Razor Leaf					
+Poison Jab					
+Slam					
+					
+					
+Weepinbell					
+Acid					
+Growth					
+Vine Whip					
+Wrap					
+Growth					
+Wrap					
+Acid					
+Sleep Powder					
+Poison Powder					
+Stun Spore					
+Razor Leaf					
+Poison Jab					
+Slam					
+					
+					
+Victreebel					
+Acid					
+Clear Smog					
+Growth					
+Leech Life					
+Power Whip					
+Sucker Punch					
+Swords Dance					
+Vine Whip					
+Wrap					
+Power Whip					
+					
+Tentacool					
+Poison Sting					
+Constrict					
+Supersonic					
+Acid					
+Bubble Beam					
+Wrap					
+Surf					
+Barrier					
+Poison Jab					
+Screech					
+Hydro Pump					
+					
+Tentacruel					
+Acid					
+Constrict					
+Haze					
+Mirror Coat					
+Poison Sting					
+Supersonic					
+Constrict					
+Supersonic					
+Acid					
+Bubble Beam					
+Wrap					
+Surf					
+Barrier					
+Poison Jab					
+Screech					
+Hydro Pump					
+					
+Geodude					
+Defense Curl					
+Tackle					
+Sand Attack					
+Bide					
+Rock Throw					
+Stealth Rock					
+Take Down					
+Self-Destruct					
+Rock Slide					
+Earthquake					
+Double-Edge					
+Explosion					
+					
+					
+Graveler					
+Bide					
+Defense Curl					
+Sand Attack					
+Tackle					
+Sand Attack					
+Bide					
+Rock Throw					
+Stealth Rock					
+Take Down					
+Self-Destruct					
+Rock Slide					
+Earthquake					
+Double-Edge					
+Explosion					
+					
+					
+Golem					
+Bide					
+Defense Curl					
+Mega Punch					
+Sand Attack					
+Tackle					
+Sand Attack					
+Bide					
+Rock Throw					
+Stealth Rock					
+Take Down					
+Self-Destruct					
+Rock Slide					
+Earthquake					
+Double-Edge					
+Explosion					
+					
+					
+Ponyta					
+Growl					
+Tackle					
+Tail Whip					
+Ember					
+Flame Charge					
+Agility					
+Flame Wheel					
+Stomp					
+Fire Spin					
+Take Down					
+Inferno					
+Fire Blast					
+Flare Blitz					
+					
+					
+Rapidash					
+					
+Ember					
+Growl					
+Megahorn					
+Poison Jab					
+Quick Attack					
+Smart Strike					
+Tackle					
+Tail Whip					
+Flame Charge					
+Agility					
+Flame Wheel					
+Stomp					
+Fire Spin					
+Take Down					
+Inferno					
+Fire Blast					
+Flare Blitz					
+					
+					
+Slowpoke					
+					
+Tackle					
+Yawn					
+Growl					
+Water Gun					
+Confusion					
+Disable					
+Rest					
+Surf					
+Psychic					
+Amnesia					
+					
+					
+Slowbro					
+					
+Growl					
+Stomp					
+Tackle					
+Water Gun					
+Withdraw					
+Yawn					
+Growl					
+Water Gun					
+Confusion					
+Disable					
+Rest					
+Surf					
+Psychic					
+Amnesia					
+					
+					
+Magnemite					
+					
+Supersonic					
+Tackle					
+Thunder Shock					
+Thunder Wave					
+Sonic Boom					
+Light Screen					
+Thunderbolt					
+Screech					
+Flash Cannon					
+Thunder					
+					
+					
+Magneton					
+					
+Supersonic					
+Tackle					
+Thunder Shock					
+Thunder Wave					
+Tri Attack					
+Thunder Shock					
+Thunder Wave					
+Sonic Boom					
+Light Screen					
+Thunderbolt					
+Screech					
+Flash Cannon					
+Thunder					
+					
+					
+Farfetch'd					
+					
+Peck					
+Sand Attack					
+Leer					
+Fury Cutter					
+Cut					
+Aerial Ace					
+Air Cutter					
+Knock Off					
+False Swipe					
+Slash					
+Swords Dance					
+Air Slash					
+Leaf Blade					
+Agility					
+Brave Bird					
+					
+					
+Doduo					
+					
+Growl					
+Peck					
+Quick Attack					
+Rage					
+Fury Attack					
+Agility					
+Drill Peck					
+Swords Dance					
+Jump Kick					
+Thrash					
+					
+					
+Dodrio					
+					
+Growl					
+Mirror Move					
+Peck					
+Quick Attack					
+Rage					
+Supersonic					
+Tri Attack					
+Quick Attack					
+Rage					
+Fury Attack					
+Agility					
+Drill Peck					
+Swords Dance					
+Jump Kick					
+Thrash					
+					
+					
+Seel					
+					
+Headbutt					
+Growl					
+Encore					
+Aqua Jet					
+Ice Shard					
+Rest					
+Aurora Beam					
+Waterfall					
+Take Down					
+Ice Beam					
+Double-Edge					
+					
+					
+Dewgong					
+					
+Aqua Jet					
+Encore					
+Fake Out					
+Growl					
+Headbutt					
+Horn Drill					
+Growl					
+Encore					
+Aqua Jet					
+Ice Shard					
+Rest					
+Aurora Beam					
+Waterfall					
+Take Down					
+Ice Beam					
+Double-Edge					
+					
+					
+Grimer					
+					
+Poison Gas					
+Pound					
+Harden					
+Minimize					
+Disable					
+Sludge					
+Screech					
+Toxic					
+Acid Armor					
+Sludge Bomb					
+					
+					
+Muk					
+					
+Harden					
+Haze					
+Minimize					
+Moonblast					
+Poison Gas					
+Pound					
+Harden					
+Minimize					
+Disable					
+Sludge					
+Screech					
+Toxic					
+Acid Armor					
+Sludge Bomb					
+					
+Shellder					
+					
+Tackle					
+Water Gun					
+Withdraw					
+Ice Shard					
+Leer					
+Whirlpool					
+Supersonic					
+Aurora Beam					
+Protect					
+Razor Shell					
+Iron Defense					
+Ice Beam					
+Shell Smash					
+Hydro Pump					
+					
+					
+Cloyster					
+					
+Aurora Beam					
+Hydro Pump					
+Ice Beam					
+Ice Shard					
+Icicle Crash					
+Icicle Spear					
+Iron Defense					
+Leer					
+Protect					
+Razor Shell					
+Shell Smash					
+Spikes					
+Supersonic					
+Tackle					
+Toxic Spikes					
+Water Gun					
+Whirlpool					
+Withdraw					
+					
+					
+Gastly					
+					
+Confuse Ray					
+Lick					
+Hypnosis					
+Mean Look					
+Payback					
+Spite					
+Curse					
+Hex					
+Night Shade					
+Sucker Punch					
+Dark Pulse					
+Shadow Ball					
+Destiny Bond					
+Dream Eater					
+					
+					
+Haunter					
+					
+Confuse Ray					
+Hypnosis					
+Lick					
+Mean Look					
+Shadow Punch					
+Payback					
+Spite					
+Curse					
+Hex					
+Night Shade					
+Sucker Punch					
+Dark Pulse					
+Shadow Ball					
+Destiny Bond					
+Dream Eater					
+					
+					
+Gengar					
+					
+Confuse Ray					
+Hypnosis					
+Lick					
+Mean Look					
+Perish Song					
+Reflect Type					
+Shadow Punch					
+Payback					
+Spite					
+Curse					
+Hex					
+Night Shade					
+Sucker Punch					
+Dark Pulse					
+Shadow Ball					
+Destiny Bond					
+Dream Eater					
+					
+					
+Onix					
+					
+Bind					
+Harden					
+Rock Throw					
+Tackle					
+Smack Down					
+Rock Polish					
+Dragon Breath					
+Curse					
+Rock Slide					
+Screech					
+Sand Tomb					
+Stealth Rock					
+Slam					
+Sandstorm					
+Dig					
+Iron Tail					
+Stone Edge					
+Double-Edge					
+					
+					
+Drowzee					
+					
+Hypnosis					
+Pound					
+Disable					
+Confusion					
+Poison Gas					
+Meditate					
+Psybeam					
+Headbutt					
+Psychic					
+Nasty Plot					
+Dream Eater					
+					
+					
+Hypno					
+					
+Barrier					
+Confusion					
+Disable					
+Hypnosis					
+Pound					
+Disable					
+Confusion					
+Poison Gas					
+Meditate					
+Psybeam					
+Headbutt					
+Psychic					
+Nasty Plot					
+Dream Eater					
+					
+					
+Krabby					
+					
+Leer					
+Water Gun					
+Harden					
+Metal Claw					
+Mud Shot					
+Protect					
+Bubble Beam					
+Stomp					
+Flail					
+Razor Shell					
+Slam					
+Swords Dance					
+Crabhammer					
+Guillotine					
+					
+					
+Kingler					
+					
+Hammer Arm					
+Harden					
+Leer					
+Metal Claw					
+Water Gun					
+Wide Guard					
+Mud Shot					
+Protect					
+Bubble Beam					
+Stomp					
+Flail					
+Razor Shell					
+Slam					
+Swords Dance					
+Crabhammer					
+Guillotine					
+					
+					
+Voltorb					
+					
+Tackle					
+Light Screen					
+Sonic Boom					
+Thunder Shock					
+Swift					
+Self-Destruct					
+Screech					
+Thunderbolt					
+Mirror Coat					
+Explosion					
+					
+					
+Electrode					
+					
+Light Screen					
+Sonic Boom					
+Tackle					
+Thunder Shock					
+Light Screen					
+Sonic Boom					
+Thunder Shock					
+Swift					
+Self-Destruct					
+Screech					
+Thunderbolt					
+Mirror Coat					
+Explosion					
+					
+					
+Exeggcute					
+					
+Barrage					
+Hypnosis					
+Confusion					
+Stun Spore					
+Poison Powder					
+Sleep Powder					
+Psybeam					
+Leech Seed					
+Reflect					
+Solar Beam					
+					
+					
+Exeggutor					
+					
+Barrage					
+Confusion					
+Egg Bomb					
+Hypnosis					
+Power Whip					
+Stomp					
+Stun Spore					
+					
+					
+Cubone					
+					
+Growl					
+Tail Whip					
+Leer					
+Bone Club					
+Headbutt					
+Rage					
+Focus Energy					
+Bonemerang					
+Thrash					
+Double-Edge					
+					
+					
+Marowak					
+					
+Bone Club					
+Growl					
+Leer					
+Screech					
+Swords Dance					
+Tail Whip					
+Tail Whip					
+Leer					
+Bone Club					
+Headbutt					
+Rage					
+Focus Energy					
+Bonemerang					
+Thrash					
+Double-Edge					
+					
+					
+Hitmonlee					
+					
+Brick Break					
+Fake Out					
+Feint					
+Focus Energy					
+Helping Hand					
+Low Sweep					
+Tackle					
+Double Kick					
+Low Kick					
+Endure					
+Revenge					
+Wide Guard					
+Blaze Kick					
+Mind Reader					
+Mega Kick					
+Close Combat					
+Reversal					
+High Jump Kick					
+					
+					
+Hitmonchan					
+					
+Bullet Punch					
+Drain Punch					
+Fake Out					
+Feint					
+Focus Energy					
+Helping Hand					
+Tackle					
+Vacuum Wave					
+Mach Punch					
+Power-Up Punch					
+Detect					
+Revenge					
+Quick Guard					
+Fire Punch					
+Ice Punch					
+Thunder Punch					
+Agility					
+Mega Punch					
+Close Combat					
+Counter					
+Focus Punch					
+					
+					
+Lickitung					
+					
+Lick					
+Wrap					
+Acid					
+Stomp					
+Disable					
+Bind					
+Slam					
+Screech					
+Thrash					
+Power Whip					
+					
+					
+Koffing					
+					
+Poison Gas					
+Tackle					
+Smog					
+Smokescreen					
+Clear Smog					
+Assurance					
+Sludge					
+Haze					
+Self-Destruct					
+Sludge Bomb					
+Toxic					
+Belch					
+Explosion					
+Memento					
+Destiny Bond					
+					
+					
+Weezing					
+					
+Double Hit					
+Heat Wave					
+Poison Gas					
+Smog					
+Smokescreen					
+Tackle					
+Clear Smog					
+Assurance					
+Sludge					
+Haze					
+Self-Destruct					
+Sludge Bomb					
+Toxic					
+Belch					
+Explosion					
+Memento					
+Destiny Bond					
+					
+					
+Rhyhorn					
+					
+Tackle					
+Tail Whip					
+Smack Down					
+Bulldoze					
+Horn Attack					
+Scary Face					
+Stomp					
+Rock Blast					
+Drill Run					
+Take Down					
+Earthquake					
+Stone Edge					
+Megahorn					
+Horn Drill					
+					
+Rhydon					
+					
+Bulldoze					
+Hammer Arm					
+Smack Down					
+Tackle					
+Tail Whip					
+Horn Attack					
+Scary Face					
+Stomp					
+Rock Blast					
+Drill Run					
+Take Down					
+Earthquake					
+Stone Edge					
+Megahorn					
+Horn Drill					
+					
+					
+Chansey					
+					
+Growl					
+Pound					
+Defense Curl					
+Tail Whip					
+Double Slap					
+Soft-Boiled					
+Minimize					
+Take Down					
+Sing					
+Egg Bomb					
+Light Screen					
+Double-Edge					
+					
+					
+Tangela					
+					
+Absorb					
+Constrict					
+Sleep Powder					
+Confusion					
+Vine Whip					
+Poison Powder					
+Bind					
+Growth					
+Stun Spore					
+Mega Drain					
+Leech Seed					
+Slam					
+Amnesia					
+Power Whip					
+					
+					
+Kangaskhan					
+					
+Comet Punch					
+Leer					
+Fake Out					
+Tail Whip					
+Bite					
+Rage					
+Mega Punch					
+Dizzy Punch					
+Crunch					
+Outrage					
+Sucker Punch					
+					
+					
+Horsea					
+					
+Bubble					
+Smokescreen					
+Water Gun					
+Leer					
+Bubble Beam					
+Focus Energy					
+Waterfall					
+Agility					
+Dragon Pulse					
+Hydro Pump					
+					
+					
+Seadra					
+					
+Bubble					
+Clear Smog					
+Disable					
+Leer					
+Smokescreen					
+Water Gun					
+Smokescreen					
+Water Gun					
+Leer					
+Bubble Beam					
+Focus Energy					
+Waterfall					
+Agility					
+Dragon Pulse					
+Hydro Pump					
+					
+					
+Goldeen					
+					
+Peck					
+Tail Whip					
+Supersonic					
+Water Pulse					
+Horn Attack					
+Agility					
+Aqua Ring					
+Flail					
+Waterfall					
+Soak					
+Megahorn					
+Horn Drill					
+					
+					
+Seaking					
+					
+Peck					
+Supersonic					
+Tail Whip					
+Water Pulse					
+Horn Attack					
+Agility					
+Aqua Ring					
+Flail					
+Waterfall					
+Soak					
+Megahorn					
+Horn Drill					
+					
+Staryu					
+					
+Harden					
+Tackle					
+Psywave					
+Water Gun					
+Swift					
+Minimize					
+Confuse Ray					
+Bubble Beam					
+Light Screen					
+Psychic					
+Recover					
+Hydro Pump					
+					
+					
+Starmie					
+					
+Harden					
+Psywave					
+Tackle					
+Water Gun					
+					
+					
+Mr. Mime					
+					
+Baton Pass					
+Copycat					
+Encore					
+Guard Swap					
+Pound					
+Power Swap					
+Quick Guard					
+Wide Guard					
+Confusion					
+Role Play					
+Protect					
+Recycle					
+Psybeam					
+Mimic					
+Light Screen					
+Reflect					
+Safeguard					
+Sucker Punch					
+Dazzling Gleam					
+Psychic					
+Teeter Dance					
+					
+					
+Scyther					
+					
+Leer					
+Quick Attack					
+Focus Energy					
+Double Team					
+Feint					
+Wing Attack					
+Agility					
+Slash					
+Razor Wind					
+Air Slash					
+Swords Dance					
+X-Scissor					
+					
+					
+Jynx					
+					
+Pound					
+Lick					
+Confusion					
+Screech					
+Double Slap					
+Ice Punch					
+Body Slam					
+Lovely Kiss					
+Psychic					
+Blizzard					
+					
+					
+Electabuzz					
+					
+Leer					
+Thunder Shock					
+Quick Attack					
+Thunder Wave					
+Swift					
+Low Kick					
+Light Screen					
+Thunder Punch					
+Screech					
+Thunderbolt					
+Thunder					
+					
+Magmar					
+					
+Ember					
+Leer					
+Smog					
+Smokescreen					
+Clear Smog					
+Low Kick					
+Fire Spin					
+Fire Punch					
+Confuse Ray					
+Flamethrower					
+Fire Blast					
+					
+					
+Pinsir					
+					
+Focus Energy					
+Vise Grip					
+Bind					
+Seismic Toss					
+Harden					
+Brick Break					
+X-Scissor					
+Submission					
+Swords Dance					
+Thrash					
+Superpower					
+Guillotine					
+					
+Tauros					
+					
+Tackle					
+Tail Whip					
+Rage					
+Horn Attack					
+Leer					
+Rest					
+Take Down					
+Focus Energy					
+Thrash					
+Double-Edge					
+Outrage					
+					
+					
+Magikarp					
+					
+Splash					
+Tackle					
+Flail					
+					
+Gyarados					
+					
+Bite					
+Flail					
+Leer					
+Splash					
+Tackle					
+Twister					
+Whirlpool					
+Ice Fang					
+Brine					
+Scary Face					
+Waterfall					
+Crunch					
+Rain Dance					
+Aqua Tail					
+Dragon Dance					
+Hydro Pump					
+Hurricane					
+Thrash					
+Hyper Beam					
+					
+					
+Lapras					
+					
+Growl					
+Water Gun					
+Sing					
+Mist					
+Life Dew					
+Ice Shard					
+Confuse Ray					
+Water Pulse					
+Brine					
+Body Slam					
+Ice Beam					
+Rain Dance					
+Hydro Pump					
+Perish Song					
+Sheer Cold					
+					
+					
+Ditto					
+					
+Transform					
+					
+					
+Eevee					
+					
+Covet					
+Growl					
+Helping Hand					
+Tackle					
+Tail Whip					
+Sand Attack					
+Quick Attack					
+Baby-Doll Eyes					
+Swift					
+Bite					
+Copycat					
+Baton Pass					
+Take Down					
+Charm					
+Double-Edge					
+Last Resort					
+					
+					
+Vaporeon					
+					
+Baton Pass					
+Bite					
+Charm					
+Copycat					
+Covet					
+Double-Edge					
+Growl					
+Helping Hand					
+Swift					
+Tackle					
+Tail Whip					
+Take Down					
+Water Gun					
+Sand Attack					
+Quick Attack					
+Baby-Doll Eyes					
+Haze					
+Water Pulse					
+Aurora Beam					
+Aqua Ring					
+Muddy Water					
+Acid Armor					
+Hydro Pump					
+Last Resort					
+					
+					
+Jolteon					
+					
+Baton Pass					
+Bite					
+Charm					
+Copycat					
+Covet					
+Double-Edge					
+Growl					
+Helping Hand					
+Swift					
+Tackle					
+Tail Whip					
+Take Down					
+Thunder Shock					
+Sand Attack					
+Quick Attack					
+Baby-Doll Eyes					
+Thunder Wave					
+Double Kick					
+Thunder Fang					
+Pin Missile					
+Discharge					
+Agility					
+Thunder					
+Last Resort					
+					
+					
+Flareon					
+					
+Baton Pass					
+Charm					
+Copycat					
+Covet					
+Double-Edge					
+Ember					
+Growl					
+Helping Hand					
+Swift					
+Tackle					
+Tail Whip					
+Take Down					
+Sand Attack					
+Quick Attack					
+Baby-Doll Eyes					
+Smog					
+Bite					
+Fire Fang					
+Fire Spin					
+Lava Plume					
+Scary Face					
+Flare Blitz					
+Last Resort					
+					
+					
+Porygon					
+					
+Tackle					
+Sharpen					
+Psybeam					
+Agility					
+Barrier					
+Tri Attack					
+Thunder Wave					
+Conversion					
+Recover					
+Hyper Beam					
+					
+					
+Omanyte					
+					
+Constrict					
+Withdraw					
+Leer					
+Water Gun					
+Bite					
+Rock Throw					
+Protect					
+Rock Slide					
+Hydro Pump					
+Shell Smash					
+					
+					
+Omastar					
+					
+Bide					
+Constrict					
+Leer					
+Spike Cannon					
+Supersonic					
+Water Gun					
+Withdraw					
+Withdraw					
+Leer					
+Water Gun					
+Bite					
+Rock Throw					
+Protect					
+Rock Slide					
+Hydro Pump					
+Shell Smash					
+					
+					
+Kabuto					
+					
+Scratch					
+Harden					
+Leer					
+Absorb					
+Aqua Jet					
+Rock Throw					
+Sand Attack					
+Rock Slide					
+Leech Life					
+					
+					
+Kabutops					
+					
+Absorb					
+Confuse Ray					
+Feint					
+Harden					
+Leer					
+Scratch					
+Screech					
+Slash					
+Harden					
+Leer					
+Absorb					
+Aqua Jet					
+Rock Throw					
+Sand Attack					
+Rock Slide					
+Leech Life					
+Swords Dance					
+					
+					
+Aerodactyl					
+					
+Bite					
+Wing Attack					
+Roar					
+Supersonic					
+Rock Throw					
+Agility					
+Crunch					
+Rock Slide					
+Fly					
+Take Down					
+Hyper Beam					
+					
+					
+Snorlax					
+					
+Block					
+Covet					
+Defense Curl					
+Flail					
+Fling					
+Last Resort					
+Lick					
+Metronome					
+Recycle					
+Screech					
+Stockpile					
+Swallow					
+Tackle					
+Yawn					
+Bite					
+Rest					
+Sleep Talk					
+Snore					
+Crunch					
+Body Slam					
+Heavy Slam					
+Amnesia					
+High Horsepower					
+Hammer Arm					
+Belly Drum					
+Belch					
+Giga Impact					
+					
+					
+Articuno					
+					
+Gust					
+Ice Shard					
+Mist					
+Leer					
+Mirror Coat					
+Ice Beam					
+Agility					
+Reflect					
+Roost					
+Blizzard					
+Sky Attack					
+					
+					
+Zapdos					
+					
+Peck					
+Thunder Shock					
+Thunder Wave					
+Leer					
+Drill Peck					
+Thunderbolt					
+Agility					
+Light Screen					
+Roost					
+Thunder					
+Sky Attack					
+					
+					
+Moltres					
+					
+Ember					
+Wing Attack					
+Fire Spin					
+Leer					
+Air Slash					
+Flamethrower					
+Agility					
+Heat Wave					
+Roost					
+Solar Beam					
+Sky Attack					
+					
+					
+Dratini					
+					
+Leer					
+Wrap					
+Thunder Wave					
+Dragon Rage					
+Agility					
+Dragon Tail					
+Slam					
+Outrage					
+Hyper Beam					
+					
+					
+Dragonair					
+					
+Headbutt					
+Rest					
+Light Screen					
+Protect					
+Substitute					
+Reflect					
+Facade					
+Thunder Wave					
+Dragon Tail					
+Iron Tail					
+Waterfall					
+Toxic					
+Dragon Pulse					
+Thunderbolt					
+Flamethrower					
+Thunder					
+Outrage					
+Fire Blast					
+Surf					
+Hyper Beam					
+Blizzard					
+Ice Beam					
+					
+					
+Dragonite					
+					
+Aqua Jet					
+Dragon Rage					
+Fire Punch					
+Leer					
+Mist					
+Thunder Punch					
+Thunder Wave					
+Wing Attack					
+Wrap					
+Thunder Wave					
+Dragon Rage					
+Agility					
+Dragon Tail					
+Slam					
+Outrage					
+Hyper Beam					
+Roost					
+					
+					
+Mewtwo					
+					
+Confusion					
+Disable					
+Laser Focus					
+Life Dew					
+Swift					
+Ancient Power					
+Psycho Cut					
+Safeguard					
+Amnesia					
+Aura Sphere					
+Psychic					
+Guard Swap					
+Power Swap					
+Mist					
+Psystrike					
+Recover					
+Future Sight					
+					
+					
+Mew					
+					
+Pound					
+Reflect Type					
+Amnesia					
+Baton Pass					
+Ancient Power					
+Life Dew					
+Nasty Plot					
+Metronome					
+Imprison					
+Transform					
+Aura Sphere					
+Psychic					
+					

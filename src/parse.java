@@ -87,5 +87,14 @@ public class parse {
         stats[0] = data.get(6);
         stats[0] = data.get(7);
     }
+    public String[] getStats(){
+        return stats;
+    }
+    public String[] getType(){
+        return type;
+    }
+    public String[] getMoves(){
+        return move;
+    }
 }
 
