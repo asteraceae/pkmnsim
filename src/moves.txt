@@ -1,20 +1,20 @@
 Bulbasaur
 	
-Growl				
-Tackle		
+Growl			
+Tackle	
 Vine Whip					
-Growth				
-Leech Seed				
-Razor Leaf					
-Poison Powder				
-Sleep Powder				
-Seed Bomb				
-Take Down					
-Sweet Scent					
-Synthesis					
-Worry Seed					
+Growth			
+Leech Seed			
+Razor Leaf				
+Poison Powder			
+Sleep Powder			
+Seed Bomb			
+Take Down				
+Sweet Scent				
+Synthesis				
+Worry Seed				
 Double-Edge					
-Solar Beam					
+Solar Beam				
 					
 Ivysaur					
 					
@@ -85,7 +85,7 @@ Inferno
 Flare Blitz					
 					
 Charizard					
-					
+				
 Air Slash					
 Dragon Claw					
 Ember					
@@ -101,8 +101,7 @@ Scary Face
 Fire Spin					
 Inferno					
 Flare Blitz					
-					
-					
+								
 Squirtle					
 					
 Tackle					
