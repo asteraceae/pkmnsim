@@ -14,7 +14,8 @@ public class data{
   Method method = null;
 
   public String[] pkmn = new String[] {"Pikachu", "Charmander", "Eevee", "Bulbasaur", "Squirtle"};
-  private pokemon p1;
+  public pokemon px;
+  public String name;
 
   public void randomize(){
     List<String> l = Arrays.asList(pkmn);
@@ -29,29 +30,40 @@ public class data{
     } catch (SecurityException e) {  }
       catch (NoSuchMethodException e) { }
     try {
-      method.invoke(this, p1);
+      method.invoke(this, px);
     } catch (IllegalArgumentException e) {  }
       catch (IllegalAccessException e) { }
       catch (InvocationTargetException e) { }
     }
-
+  public String getName(){
+    return name;
+  }
   public void Pikachu(pokemon px){
     System.out.println("TEST 0");
     //Base stats,
       //max stats 274, 229, 196, 218, 218, 306
       //idk how it works
-    px = new pokemon(35, 55, 40, 50, 50, 90, "Electric", null);
+    this.px = new pokemon(35, 55, 40, 50, 50, 90, "Electric", null);
+   this.name = "Pikachu";
     }
-  public void Eevee(){
+  public void Eevee(pokemon p){
     System.out.println("TEST 1");
+    this.px = new pokemon(35, 55, 40, 50, 50, 90, "Electric", null);
+    this.name = "Eevee";
     }
-  public void Charmander(){
+  public void Charmander(pokemon p){
     System.out.println("TEST 2");
+    this.px = new pokemon(35, 55, 40, 50, 50, 90, "Electric", null);
+    this.name = "Charmander";
     }
-  public void Bulbasaur(){
+  public void Bulbasaur(pokemon p){
     System.out.println("TEST 3");
+    this.px = new pokemon(35, 55, 40, 50, 50, 90, "Electric", null);
+    this.name = "Bulbasaur";
     }
-  public void Squirtle(){
+  public void Squirtle(pokemon p){
     System.out.println("TEST 4");
+    px = new pokemon(35, 55, 40, 50, 50, 90, "Electric", null);
+    this.name = "Squirtle";
     }
   }
