@@ -7,7 +7,6 @@ import java.util.Scanner;
 
 public class parse {
     private List<String> data;
-    private List<String> data2;
     private String[] stats;
     private String[] type;
     private String[] move;
@@ -31,7 +30,7 @@ public class parse {
         String[] a = current.split(" ");
         List<String> list = Arrays.asList(a);
         System.out.println(list);
-        this.data = data;
+        this.data = list;
 
         //again
         try {
@@ -68,9 +67,11 @@ public class parse {
             String keep = move[i];
             keep.trim();
             move[i] = keep;
-            System.out.println(move[i]);
         }
         this.move = move;
+
+        setStats();
+        setType();
 
 
     }
@@ -84,8 +85,8 @@ public class parse {
     }
     public void setType() {
         type = new String[2];
-        stats[0] = data.get(6);
-        stats[0] = data.get(7);
+        type[0] = data.get(7);
+        type[0] = data.get(8);
     }
     public String[] getStats(){
         return stats;

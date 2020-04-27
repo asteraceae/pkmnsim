@@ -31,14 +31,13 @@ public class data{
     l.toArray(pkmn);
   }
  public void setP1(String pkmn){
-    String p = pkmn;
     parse parse = new parse();
+    parse.parse(pkmn);
     String[] stats = parse.getStats();
     String[] type = parse.getType();
     String[] moves = parse.getMoves();
-
-    px = new pokemon(Integer.parseInt(stats[0]), Integer.parseInt(stats[1]), Integer.parseInt(stats[2]), Integer.parseInt(stats[3]), Integer.parseInt(stats[4]), type[0], type[1], p, moves);
-    }
+    px = new pokemon(Integer.parseInt(stats[0]), Integer.parseInt(stats[1]), Integer.parseInt(stats[2]), Integer.parseInt(stats[3]), Integer.parseInt(stats[4]), type[0], type[1], pkmn, moves);
+  }
 
   public String getName(){
     return px.getName();
