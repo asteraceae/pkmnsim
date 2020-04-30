@@ -3,6 +3,8 @@ import java.math.*;
 
     public class battle {
 
+        public String message = " ";
+
         private boolean criticalHit() {
             float probability = 1/16;
             if (probability >= Math.random()) {
@@ -21,10 +23,14 @@ import java.math.*;
             }
 
         }
-        public void damageCalc(pokemon px){
-            int c = (int)(Math.random() * 100);
-            px.decreaseHP(c);
+        public void damageCalc(pokemon px, pokemon p2, String move){
+            //int c = (int)(Math.random() * 100);
+            move m = px.findMove(move);
+            int c = (m.power * px.atk * 50) - p2.def;
+            px.decreaseHP(-c);
+
+        }
+        public void changeMessage(){
+
         }
     }
-
-

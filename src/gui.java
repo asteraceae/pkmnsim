@@ -40,6 +40,7 @@ public class gui implements ActionListener {
     public gui() throws FileNotFoundException {
         //set up frame n label
         frame = new JFrame();
+        parse p = new parse();
         JLabel label = new JLabel("click to start");
         label.setHorizontalAlignment(JLabel.CENTER);
         label.setFont(arial);
@@ -92,29 +93,31 @@ public class gui implements ActionListener {
           x2 = true;
         }
         else if (!x3){
+            String selected = (String) list.getSelectedItem();
+            String selected2 = (String) list2.getSelectedItem();
             battle battle = new battle();
-            if (p1.getHP() < 0){
+            if (p1.getHP() <= 0){
                 p2w = true;
                 x4();
                 x3 = true;
             }
-            else if (p1.getHP() < 0){
+            else if (p1.getHP() <= 0){
                 p1w = true;
                 x4();
                 x3 = true;
             }
             else{
                 if (battle.goesFirst(p1.getPokemon(), p2.getPokemon()) == true){
-                    battle.damageCalc(p1.getPokemon());
+                    battle.damageCalc(p1.getPokemon(), p2.getPokemon(), selected);
                     checkFaint();
-                    battle.damageCalc(p2.getPokemon());
+                    battle.damageCalc(p2.getPokemon(), p1.getPokemon(), selected2);
                     checkFaint();
                     x3();
                 }
                 else {
-                    battle.damageCalc(p2.getPokemon());
+                    battle.damageCalc(p2.getPokemon(), p1.getPokemon(), selected2);
                     checkFaint();
-                    battle.damageCalc(p1.getPokemon());
+                    battle.damageCalc(p1.getPokemon(), p2.getPokemon(), selected);
                     checkFaint();
                     x3();
 
@@ -123,7 +126,7 @@ public class gui implements ActionListener {
         }
         else {
             x4();
-            
+
         }
     }
     public void x2(){
@@ -193,6 +196,16 @@ public class gui implements ActionListener {
         frame.pack();
     }
     public void x3(){
+        if (p1.getHP() <= 0){
+            p2w = true;
+            x4();
+            x3 = true;
+        }
+        else if (p1.getHP() <= 0){
+            p1w = true;
+            x4();
+            x3 = true;
+        }
 
         panel.removeAll();
 
@@ -209,10 +222,10 @@ public class gui implements ActionListener {
         JLabel hp1 = new JLabel();
         JLabel hp2 = new JLabel();
 
-        JComboBox<String> m1 = new JComboBox<String>(p1.getMoves());
-        JComboBox<String> m2 = new JComboBox<String>(p2.getMoves());
-        m1.setFont(arial);
-        m2.setFont(arial);
+        JComboBox<String> list1 = new JComboBox<String>(p1.getMoves());
+        JComboBox<String> list2 = new JComboBox<String>(p2.getMoves());
+        list1.setFont(arial);
+        list2.setFont(arial);
 
         JLabel image1 = new JLabel();
         image1.setIcon(new ImageIcon(p1.getNameL() + ".png"));
@@ -230,9 +243,9 @@ public class gui implements ActionListener {
         label2.setText(p2.getName());
         label2.setFont(arial);
 
-        hp1.setText(p1.getHP()+"/100 HP");
+        hp1.setText(p1.getHP()+ "/" + p1.getBaseHP());
         hp1.setFont(arial);
-        hp2.setText(p2.getHP()+"/100 HP");
+        hp2.setText(p2.getHP()+ "/" + p2.getBaseHP());
         hp2.setFont(arial);
 
         panel.add(label1);
@@ -244,9 +257,9 @@ public class gui implements ActionListener {
         panel.add(image1);
         panel.add(empty3);
         panel.add(image2);
-        panel.add(m1);
+        panel.add(list1);
         panel.add(b);
-        panel.add(m2);
+        panel.add(list2);
 
 
         frame.add(panel, BorderLayout.CENTER);
@@ -287,12 +300,12 @@ public class gui implements ActionListener {
         frame.pack();
     }
     public void checkFaint(){
-        if (p1.getHP() < 0){
+        if (p1.getHP() <= 0){
             p2w = true;
             x3 = true;
             x4();
         }
-        else if (p1.getHP() < 0){
+        else if (p2.getHP() <= 0){
             p1w = true;
             x3 = true;
             x4();

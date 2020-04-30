@@ -26,7 +26,6 @@ public class parse {
         }
         String[] a = current.split(" ");
         List<String> list = Arrays.asList(a);
-        System.out.println(list);
         this.data = list;
 
         //again
@@ -75,6 +74,27 @@ public class parse {
 
 
     }
+    public List<String> parsemove(String id){
+      Scanner sc = null;
+      try {
+          sc = new Scanner(new File("move.txt"));
+      } catch (FileNotFoundException e) {
+          e.printStackTrace();
+      }
+
+      String current = "";
+      while (sc.hasNextLine()) {
+          current = sc.nextLine();
+          if (current.contains(id)) {
+              break;
+          }
+      }
+      String[] a = current.split(" ");
+      List<String> list = Arrays.asList(a);
+      return list;
+
+    }
+
     public void setStats() {
         stats = new String[5];
         stats[0] = data.get(1);
@@ -86,7 +106,7 @@ public class parse {
     public void setType() {
         type = new String[2];
         type[0] = data.get(7);
-        type[0] = data.get(8);
+        type[1] = data.get(8);
     }
     public String[] getStats(){
         return stats;
@@ -98,4 +118,3 @@ public class parse {
         return move;
     }
 }
-
